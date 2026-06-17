@@ -24,8 +24,8 @@ data-driven modelling.
 ## Results
 | Model | R² Score |
 |---|---|
-| Linear Regression | 0.624 |
-| Random Forest | 0.624 |
+| Linear Regression | 0.65 |
+| Random Forest | 0.81 |
 
 > Dataset size: 100 simulation points (ANSYS solve time was the 
 > limiting factor for dataset size)
