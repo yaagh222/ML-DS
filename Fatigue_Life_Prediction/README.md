@@ -47,5 +47,6 @@ data-driven modelling.
 | `MinimumLife_DataCleaning.ipynb` | Data cleaning |
 | `MinimumLife_EDA.ipynb` | Exploratory analysis |
 | `MinimumLife_Profiling.ipynb` | Data profiling |
-| `MinimumLife_Prediction.ipynb` | ML models |
+| 'MinimumLife_Pipeline.ipynb' | ML Model |
+| `MinimumLife_Prediction1.ipynb` | Input Test Case |
 | `FatigueLoading_Report.html` | Profiling report |
